@@ -65,8 +65,8 @@ This project demonstrates how to integrate with the eBay API to search and displ
 
 #### 1. Clone the Repository
 ```bash
-git clone https://github.com/sattyam300/Bidblaze_ed.git
-cd Bidblaze_ed
+git clone https://github.com/rohanasawale234/BidBlaze.git
+cd BidBlaze
 ```
 
 ## Setup Instructions
